@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Dataset files
+*.npy
+
+# Large model files
+*.h5
+*.json
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
